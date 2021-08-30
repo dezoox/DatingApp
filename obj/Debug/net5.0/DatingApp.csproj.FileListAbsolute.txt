@@ -59,3 +59,9 @@ E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\runtimes\osx-x64\native\libsqli
 E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
 E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
 E:\programs\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.csproj.AssemblyReference.cache
+E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\client\angular.json
+E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\client\package-lock.json
+E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\client\package.json
+E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\client\tsconfig.app.json
+E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\client\tsconfig.json
+E:\programs\DatingApp\DatingApp\bin\Debug\net5.0\client\tsconfig.spec.json
